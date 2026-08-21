@@ -1,0 +1,15 @@
+# Secretos y credenciales de Streamlit
+.streamlit/secrets.toml
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+
+# Archivos temporales de Python y cache
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
