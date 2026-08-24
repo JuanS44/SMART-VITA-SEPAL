@@ -1,6 +1,5 @@
 streamlit
 pandas
 openpyxl
-supabase
-streamlit-folium
-folium
+sqlalchemy
+psycopg2-binary
