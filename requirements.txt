@@ -1,5 +1,5 @@
 streamlit
 pandas
+sqlalchemy>=2.0
+psycopg[binary]>=3.2.11
 openpyxl
-sqlalchemy
-psycopg2-binary
